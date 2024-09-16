@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src= "https://github-readme-stats.vercel.app/api?username=Linussl"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linussl)](https://github.com/Linussl/github-readme-stats)
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Linussl"/>

@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I am Linus and I am an apprentice as a Software Developer
+### I am Linus and I am an apprentice as a Software Developer
 <!--
 **Linussl/Linussl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,7 +10,7 @@
 <!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on CoreX
-- 🌱 I’m currently learning both Frontend and Backend languages & Frameworks.
+- 🌱 I’m currently learning both Frontend + Backend languages & Frameworks.
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Linussl&show_icons=true&theme=tokyonight" alt="Linus's GitHub stats" width="375"/>

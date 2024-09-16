@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+# I am Linus and I am an apprentice as a Software Developer
 <!--
 **Linussl/Linussl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Linus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linussl&show_icons=true&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linussl)](https://github.com/Linussl/github-readme-stats)
+![Linus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linussl&show_icons=true&theme=transparent)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linussl)](https://github.com/Linussl/github-readme-stats)

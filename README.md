@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=3500&color=8C79F7&width=435&lines=Hi%2C+I'm+Linus%2C+an+apprentice;+as+a+Software+Developer;at+Helvetia+Insurances)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=3500&color=8C79F7&width=435&lines=Hi%2C+I'm+Linus%2C+an+apprentice;+as+a+Software+Developer;at+Helvetia+Insurances" alt="Typing SVG"/>
+  </a>
+</p>
+
 <!--
 **Linussl/Linussl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

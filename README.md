@@ -4,20 +4,14 @@
   </a>
 </p>
 
-<!--
-**Linussl/Linussl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--**Linussl/Linussl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Here are some ideas to get you started:-->
+
+- 🔭 I’m currently working on CoreX
+- 🌱 I’m currently learning both Frontend and Backend languages & Frameworks.
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Linussl&show_icons=true&theme=tokyonight" alt="Linus's GitHub stats" width="375"/>
    <img src="https://streak-stats.demolab.com?user=Linussl&theme=tokyonight&border_radius=5&exclude_days=Sun%2CMon" alt="GitHub Streak" width="400"/>
